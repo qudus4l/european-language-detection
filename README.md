@@ -60,8 +60,3 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Your Name – [Your Email](mailto:your.email@example.com)
-
-Project Link: [https://github.com/qudus4l/european-language-detection](https://github.com/qudus4l/european-language-detection)
