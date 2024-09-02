@@ -31,7 +31,7 @@ Run the main script to start the language detection:
 ```bash
 python main.py
 ```
-Follow the on-screen prompts to input sentences and get language predictions.
+Follow the on-screen prompts to input sentences and get language predictions. It might take a while to come up as model is training
 
 ## Methodology
 
