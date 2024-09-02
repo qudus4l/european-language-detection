@@ -1,0 +1,7 @@
+8	build date	2023-06-07
+22	WORD_TYPES	27198
+26	SENTENCES	10000
+27	WORD_TOKENS	168972
+28	SOURCES	8435
+201	git revision toolchain	3a9ea12e344a6f3b7ff1cfdb5b49751c1ebd8113
+202	git revision resources	3fb4dd0f23a5d1eb7f5564a751a74874c9fb0ecc
